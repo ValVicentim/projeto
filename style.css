@@ -1,8 +1,8 @@
 
-    #titulo {
+    .titulo {
         font-size: 40px;
         color: rgb(255, 255, 255);
-        background-color: #db830f;
+        background-color: #38db0f;
     
     }
     
@@ -13,7 +13,7 @@
     }
     
     body {
-        background-color: #dbd2c8;
+        background-color: #7ca639;
     }
     #banner {
         width: 50%;
